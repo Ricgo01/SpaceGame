@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Pecahan
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Pecahan\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=img
+comment1.target=Pecahan(greenfoot.GreenfootImage)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=MyWorld
+comment3.target=void\ addedToWorld(greenfoot.World)
+numComments=4
